@@ -1,0 +1,12 @@
+{
+  "fuel_mass": 3.015928947446202e-05,
+  "released_energy": 1167.1645026616802,
+  "pressure_max_bar": 29.304529580125003,
+  "temperature_max_C": 755.8887991296659,
+  "gas_force_max_N": 14220.748174332102,
+  "rod_force_max_N": 19469.991515667334,
+  "stress_max_MPa": 289.4731569172627,
+  "fatigue_life_cycles": 7723.310234920446,
+  "operating_time_hours": 0.028604852721927584,
+  "fatigue_state": "фрик"
+}
