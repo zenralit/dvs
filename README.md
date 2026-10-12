@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simplified engine calculation prototype
 
 This project provides a compact, demonstrator-only Python pipeline for the effects of piston-engine parameters, fuel properties, combustion, pressure, force, stress and fatigue. It is an educational engineering model, not a certification or CFD/FEM program.
