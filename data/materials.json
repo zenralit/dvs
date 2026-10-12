@@ -1,0 +1,50 @@
+{
+  "aluminium": {
+    "name": "Алюминий",
+    "density": 2700,
+    "E": 70000000000,
+    "nu": 0.33,
+    "alpha": 23e-6,
+    "yield_strength": 300000000,
+    "ultimate_strength": 450000000,
+    "fatigue_strength": 70000000,
+    "sigma_f_prime": 120000000,
+    "b": -0.12
+  },
+  "cast_iron": {
+    "name": "Чугун",
+    "density": 7100,
+    "E": 110000000000,
+    "nu": 0.29,
+    "alpha": 10e-6,
+    "yield_strength": 200000000,
+    "ultimate_strength": 350000000,
+    "fatigue_strength": 45000000,
+    "sigma_f_prime": 90000000,
+    "b": -0.1
+  },
+  "steel": {
+    "name": "Сталь",
+    "density": 7800,
+    "E": 200000000000,
+    "nu": 0.3,
+    "alpha": 12e-6,
+    "yield_strength": 500000000,
+    "ultimate_strength": 800000000,
+    "fatigue_strength": 100000000,
+    "sigma_f_prime": 150000000,
+    "b": -0.13
+  },
+  "custom": {
+    "name": "Пользовательский материал",
+    "density": 2700,
+    "E": 70000000000,
+    "nu": 0.33,
+    "alpha": 23e-6,
+    "yield_strength": 300000000,
+    "ultimate_strength": 450000000,
+    "fatigue_strength": 70000000,
+    "sigma_f_prime": 120000000,
+    "b": -0.12
+  }
+}
