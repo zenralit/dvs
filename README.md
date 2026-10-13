@@ -195,8 +195,3 @@ python -m unittest discover -s tests -v
 ## Expected result
 
 A normal run should produce positive finite pressure and temperature values, positive cylinder volume, and increasing fuel energy with fuel mass. Increasing RPM should increase inertial loading approximately with `RPM^2`. Peak pressure and output values are example-dependent and must not be interpreted as a real engine performance guarantee.
-
-## License and use
-
-This project is intended for demonstration and scientific article use. It is not suitable for engine certification, vehicle safety assessment, or professional structural design.
->>>>>>> 5dac6ae91d3261d97888fb0d17da8a52272a00b9
